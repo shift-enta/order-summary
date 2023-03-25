@@ -30,6 +30,7 @@ main{
 }
 
 #main-box{
+    margin top:50px;
     background-color: white;
     width: 400px;
     height: 80vh;
